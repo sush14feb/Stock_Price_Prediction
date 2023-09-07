@@ -1,4 +1,4 @@
-## Stock Market Data Analysis
+## Stock Market Prediction with ARIMA
 
 This repository showcases an in-depth analysis of stock market data using various techniques for data evaluation and forecasting.
 
